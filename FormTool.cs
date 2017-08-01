@@ -15,7 +15,7 @@ using Pearl.Plugins.Utilities;
 namespace EntitlementTest
 {
     /// <summary>
-    /// The form tool.
+    /// The form tool
     /// </summary>
     public partial class FormTool : Form
     {
